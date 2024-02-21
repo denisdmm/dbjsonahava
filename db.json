@@ -1,9 +1,11 @@
 {
   "autospascoa": [
     {
-      "id":"1",
       "ano": 2024,
       "nome": "Milagres",
+      "descricao": "",
+      "localEvento": "IC Colina",
+      "periodoEvento": "25-30 de Março",
       "musicas": [
         {
           "numeroCena": 1,
