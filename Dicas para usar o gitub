@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=kncOJZrnkTg  (assoistr)
 
 DOCKER
 https://www.tabnews.com.br/seujorge/construindo-uma-aplicacao-com-banco-de-dados-utilizando-docker-compose
+
+saber qual a rede do banco de dados
+
+docker network inspect docker_minharede
