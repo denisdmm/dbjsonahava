@@ -1,15 +1,4 @@
 {
-  "eventos": [
-    {
-      "ano": 2024,
-      "tipoEvento": "Apresentação",
-      "localEvento": "IC Colina",
-      "dataEvento": "25-30 de Abril",
-      "ativo": true,
-      "playlist": "",
-      "Audios": ""
-    }
-  ],
   "autospascoa": [
     {
       "ano": 2024,
